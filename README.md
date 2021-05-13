@@ -1,4 +1,4 @@
-# loruki-website
+# Loruki-website
 Cloud Hosting Website Clone
 
 ## Web Technologies used
